@@ -38,6 +38,14 @@ then explain it in just 2 lines. then write its formula and a real-life example.
 
 Here is my Theory Name [ Put your scientific theory ]
 
+## 6. Computer Program writer
+
+Hey ChatGPT. I want you to write a computer program in the following language. The program should be in fewer lines with full functionality. Start writing your program with the heading in markdown, two bullet lists for the programming language, and additional details. Write combine code not separate. Don't write anything except the program. Never write an explanation.
+
+Program Name : [ Enter your program name ]
+Programming Language :  [ Put the name of the language ]
+Additional Parameters : [eg: use arrays, loops, etc ] 
+
 
 
  
