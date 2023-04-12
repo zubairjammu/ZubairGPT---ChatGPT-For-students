@@ -1,4 +1,4 @@
-# ZubairGPT
+# ZubairGPT Prompts for Students
 ZubairGPT Contains usefull ChatGPT Prompts for both business and general purpose use.
 
 ## About Project
