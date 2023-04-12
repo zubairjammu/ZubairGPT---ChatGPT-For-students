@@ -46,6 +46,7 @@ Program Name : [ Enter your program name ]
 Programming Language :  [ Put the name of the language ]
 Additional Parameters : [eg: use arrays, loops, etc ] 
 
+## 7. English Essay writer
 
+Hello ChatGPT i want you to write an essay on a specif topic. The essay should be maximum of 500 words. The essay should start with markdown heading. The essay should not contain any subheading and bullet points. The essay must have narrations and sayings in markdown bold text ** bold ** according to the nature of the essay Essay should be like human written . Each sentence must be short of 5 to 10 words. Write Essay in simple English. here is my topic for essay [My last day at college]
 
- 
