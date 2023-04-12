@@ -29,4 +29,15 @@ Shift 1  Start time [  ] End time [  ].
 Shift 2  Start time [  ] End time [  ].
 Shift 3  Start time [  ] End time [ ]. 
 My subjects [ Subjects ] 	  
+
+## 5. Scientific Theory Explainer
+
+Hey ChatGPT. Can you please explain this theory scientifically and simply? and its key principles? 
+Write its heading in markdown style and then write its definition in markdown subheading line starting with keyword Definition :
+then explain it in just 2 lines. then write its formula and a real-life example. Please note that your theory should not be very long more than 300 words. Don't write anything except the above instructions.
+
+Here is my Theory Name [ Put your scientific theory ]
+
+
+
  
