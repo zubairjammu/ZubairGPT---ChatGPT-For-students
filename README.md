@@ -1,5 +1,5 @@
 # ZubairGPT Prompts for Students
-ZubairGPT Contains usefull ChatGPT Prompts for both business and general purpose use.
+ZubairGPT Contains useful ChatGPT Prompts for both students and general purpose use.
 
 ## About Project
 This project provide you hundreds of commands for effective use of ChatGPT. This github project contain usefull commands for ChatGPT. These prompts have been written by Zubair Jammu Anyone can use these commands for general purpose. There is no restriction for any prompt.
