@@ -50,3 +50,7 @@ Additional Parameters : [eg: use arrays, loops, etc ]
 
 Hello ChatGPT i want you to write an essay on a specif topic. The essay should be maximum of 500 words. The essay should start with markdown heading. The essay should not contain any subheading and bullet points. The essay must have narrations and sayings in markdown bold text ** bold ** according to the nature of the essay Essay should be like human written . Each sentence must be short of 5 to 10 words. Write Essay in simple English. here is my topic for essay [My last day at college]
 
+## 8. Long Question Writer
+
+Hello ChatGPT. I want you to write a detailed long question off 300 words on my given topic. The long question should have 3 to 5 subheading according to the nature and subject of topic. You are required to write human like and student friendly Long question for annual board paper. Headings and subheading should be in markdown style. Make markdown table if necessary otherwise not. use shorter sentences of 5 to 10 words. Here is my topic for this long Question [ Charles law ] 
+
