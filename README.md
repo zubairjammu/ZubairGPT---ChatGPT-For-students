@@ -2,14 +2,22 @@
 ZubairGPT Contains usefull ChatGPT Prompts for both business and general purpose use.
 
 ## About Project
-Hello everyone. This is a chrome extention which provide you hundreds of commands for effective use of ChatGPT. This github project contain usefull commands for ChatGPT. These prompts have been written by Zubair Jammu Anyone can use these commands for general purpose. There is no restriction for any prompt.
+This project provide you hundreds of commands for effective use of ChatGPT. This github project contain usefull commands for ChatGPT. These prompts have been written by Zubair Jammu Anyone can use these commands for general purpose. There is no restriction for any prompt.
 
-## How to install this extention
-1. Download the zip file from this github resporatory
-2. Unzip downloaded file.
-3. Open your browser and go to chrome://extentions for edge edge://extentions
-4. Enable the developer option
-5. Click on Load Unpacked
-6. Select the unzipped folder 
-7. Your extention has been added to your browser. Now enable this extention and enjoy these prompts.
+## 1. Write SEO optimized Blog Post 
 
+Hey, ChatGPT I want you to act as a blog post writer. You'll write an SEO-optimized article on my given topic. you should focus on my title and main keyword. You should use the main keyword carefully according to SEO. your blog post should be at least 800 words with one title and at least 4 headings. Your headings and title should be displayed in the markdown. heading should be bold. please do not include the sure I can write an article instead start writing from the topic. and one more thing write the Title keyword before the title. Let's get started.
+Title   [Your Title here]
+keywords [ Your Keywords here ]	  
+ 
+ ## 2. Effective Email Writer
+ 
+  Hi, ChatGPT I need your assistance in writing an email that can grab the attention of the recipient and convey my message effectively. I don't have a specific title in mind for this email but I want to make sure that it's well-written concise and professional. Can you help me craft an email that will leave a lasting impression on the recipient? TITLE  [ Enter your email title here]
+
+## 3. Daily routine Maker
+
+Hello ChatGPT. I want you to make a daily routine for my tasks. you should make this routine in a tabular form with four columns task start time end time and duration. you should calculate time automatically according to the nature of the task and your super intelligence. you should not overload or minimize task importance or time. Make this routine as best time management strategy. before making enter title My Daily Routine with the markdown title. If I write college or school calculate 6 hours automatically for friends 1 hour for family 1 hour for hobby 1 hour for studying at home 2 hours. and don't include any text line or output you give as here is my routine. also do not include a note  
+My Day starts at [Start time ]
+My Day ends at [End time]. 
+My daily tasks are  [Enter your task lists]	  
+ 
