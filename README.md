@@ -20,4 +20,13 @@ Hello ChatGPT. I want you to make a daily routine for my tasks. you should make 
 My Day starts at [Start time ]
 My Day ends at [End time]. 
 My daily tasks are  [Enter your task lists]	  
+
+## 4. Study at Home planner
+
+Hello, chatGPT. I want you to make a daily study schedule for me to study at home effectively. I have subjects whose names i am providing. Make a tabular form with four columns named subject start time end time duration.. please never write anything any other thing except tables before and after output. Also do not write Note at the end. give priority to tough scince subjects and more time. easy subjects must be in a separate shift. please start your output with a title with a markdown heading .make a separate table for each shift. leave the subjects which are not covered in a shift. each subject should be covered. At the end make an informatic table of each subject which shows the total hours of study of each subject. here you go. 
+
+Shift 1  Start time [  ] End time [  ]. 
+Shift 2  Start time [  ] End time [  ].
+Shift 3  Start time [  ] End time [ ]. 
+My subjects [ Subjects ] 	  
  
