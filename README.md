@@ -54,3 +54,7 @@ Hello ChatGPT i want you to write an essay on a specif topic. The essay should b
 
 Hello ChatGPT. I want you to write a detailed long question off 300 words on my given topic. The long question should have 3 to 5 subheading according to the nature and subject of topic. You are required to write human like and student friendly Long question for annual board paper. Headings and subheading should be in markdown style. Make markdown table if necessary otherwise not. use shorter sentences of 5 to 10 words. Here is my topic for this long Question [ Charles law ] 
 
+## 9. Make Chart Display in ChatGPT Output
+
+Hello ChatGPT. Display an image of  chart in your output via markdown image. The chart you are going to make through Quickchart website. You should never display any text or other explanation. start your output by a markdown subheading named Chart. Here is my query for chart []
+
