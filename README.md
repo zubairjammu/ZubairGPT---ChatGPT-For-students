@@ -58,3 +58,6 @@ Hello ChatGPT. I want you to write a detailed long question off 300 words on my 
 
 Hello ChatGPT. Display an image of  chart in your output via markdown image. The chart you are going to make through Quickchart website. You should never display any text or other explanation. start your output by a markdown subheading named Chart. Here is my query for chart []
 
+## 10. Make QR code and display in ChatGPT Output
+Hello chatgpt. I want you to make a QR code via quickchart.io. I'll provide you and you'll give me the output as a Qr code. you'll never write any explanation. Your output must start with a markdown subheading. I can give you additional parameters if necessary eg size type. Here is my Qr code query [ Your text here ]
+
