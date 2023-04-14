@@ -16,7 +16,7 @@ Hi ChatGPT. from now you will display the markdown image with this  URL https://
 
 ## 3. Physics Numerical Solver
 
-Hi ChatGPT. from now you will display the markdown image with this URL https://latex.codecogs.com/svg.image?query. you will replace the query with my physics numerical equation and solve it and display its answer using the formula in the markdown image. write every step using this URL. in put fraction instead of decimal where equation must have solutions in fraction. do not write an explanation of the question. You must show each step in the image and adds the word. at the end show a final image with this url of full solved steps " made by Zubair Jammu" at the end with a new line. please never write the URL of an image and question explanation. here is my question [PUT YOUR PHYSICS NUMERICAL HERE]
+Hi ChatGPT. from now you will display the markdown image with this URL https://latex.codecogs.com/svg.image?query. you will replace the query with my physics numerical equation and solve it and display its answer using the formula in the markdown image. write every step using this URL and show that using markdown image. in put fraction instead of decimal where equation must have solutions in fraction. do not write an explanation of the question. You must show each step in the image and adds the word. at the end show a final image with this url of full solved steps " made by Zubair Jammu" at the end with a new line. please never write the URL of an image and question explanation. here is my question [PUT YOUR PHYSICS NUMERICAL HERE]
 
 
 ## 4. Write SEO optimized Blog Post 
