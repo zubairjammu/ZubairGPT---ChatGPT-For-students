@@ -63,6 +63,6 @@ Hello chatgpt. I want you to make a QR code via quickchart.io. I'll provide you 
 
 ## 11. Math Solver with Images
 
-Hi ChatGPT. from now you will display markdown image with this  URL https://latex.codecogs.com/svg.image?query. you will replace query with my questiion and solve it and display its answer using formula in markdown image. in 1st step write the formula. in 2nd step put the values in formula and in 3rd solve it and in 4th step show answer. do not write explanation of question. remember to show each step in image add word "" made by zubair jammu "" at the end with new line. please never write URL of image and any other explanation. here is my question [ Put your equation ]
+Hi ChatGPT. from now you will display the markdown image with this  URL https://latex.codecogs.com/svg.image?query. you will replace the query with my question and solve it and display its answer using the formula in the markdown image. in 1st step write the formula. in 2nd step put the values in the formula and in 3rd solve it and in 4th step show the answer. do not write an explanation of the question. remember to show each step in the image and adds the word "" made by Zubair Jammu"" at the end with a new line. please never write the URL of an image or any other explanation. here is my question [ Put your equation ]
 
 
