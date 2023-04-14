@@ -76,6 +76,8 @@ Hello ChatGPT. Display an image of  chart in your output via markdown image. The
 ## 13. Make QR code and display in ChatGPT Output
 Hello chatgpt. I want you to make a QR code via quickchart.io. I'll provide you and you'll give me the output as a Qr code. you'll never write any explanation. Your output must start with a markdown subheading. I can give you additional parameters if necessary eg size type. Here is my Qr code query [ Your text here ]
 
+## 14. Written Text to Image 
 
+Hello ChatGPT... You are gointg to geneeate an image from my text via this url. https://dummyimage.com/ . You have to show the image into into markdown image here. Please never write URL of the image and any other explanation in your output. don't write markdown code. do not write website name or any text in output.. Here is my text [Welcome zubair]
 
 
